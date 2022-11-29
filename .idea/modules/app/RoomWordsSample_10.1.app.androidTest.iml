@@ -32,7 +32,7 @@
     <content url="file://$MODULE_DIR$/../../../app/src/androidTestDebug" />
     <orderEntry type="jdk" jdkName="Android API 26 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="RoomWordsSample.app.main" scope="TEST" />
+    <orderEntry type="module" module-name="RoomWordsSample_10.1.app.main" scope="TEST" />
     <orderEntry type="library" scope="TEST" name="Gradle: junit:junit:4.12" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: net.sf.kxml:kxml2:2.3.0" level="project" />
@@ -75,5 +75,5 @@
     <orderEntry type="library" scope="TEST" name="Gradle: com.android.support:transition:26.1.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: android.arch.lifecycle:extensions:1.0.0@aar" level="project" />
   </component>
-  <component name="TestModuleProperties" production-module="RoomWordsSample.app.main" />
+  <component name="TestModuleProperties" production-module="RoomWordsSample_10.1.app.main" />
 </module>

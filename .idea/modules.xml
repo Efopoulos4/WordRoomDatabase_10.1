@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RoomWordsSample.iml" filepath="$PROJECT_DIR$/.idea/modules/RoomWordsSample.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RoomWordsSample.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RoomWordsSample.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RoomWordsSample.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RoomWordsSample.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RoomWordsSample.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RoomWordsSample.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RoomWordsSample.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RoomWordsSample.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RoomWordsSample_10.1.iml" filepath="$PROJECT_DIR$/.idea/modules/RoomWordsSample_10.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RoomWordsSample_10.1.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RoomWordsSample_10.1.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RoomWordsSample_10.1.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RoomWordsSample_10.1.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RoomWordsSample_10.1.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RoomWordsSample_10.1.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RoomWordsSample_10.1.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RoomWordsSample_10.1.app.unitTest.iml" />
     </modules>
   </component>
 </project>
